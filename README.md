@@ -1,4 +1,4 @@
-# 大本9號船舶作業平台（GitHub Pages 版）
+# 大本9號船舶作業平台
 
 ## 上架方式
 1. 在 GitHub 建立一個 repository（建議設為 Public，GitHub Pages 通常需要公開 repository，依帳戶方案而定）。
@@ -17,6 +17,3 @@
 
 ## 新增報告
 將 PDF 放入 `reports/`，再在 `reports.html` 的 `reportFiles` 陣列新增一筆資料，`file` 路徑需與實際檔名完全一致。
-
-## 注意
-GitHub Pages 網站可能公開供任何人瀏覽。請勿上傳不適合公開的個資、簽名或敏感商業資料。配載頁僅供初步試算，不能取代正式穩度計算、船舶裝載手冊及船上合格人員覆核；不可直接把試算結果當作壓載操作指令。
